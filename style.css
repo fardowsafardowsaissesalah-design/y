@@ -1,0 +1,48 @@
+body{
+    background-color: azure;
+}
+
+nav{
+    background:#333;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-right:15px;
+}
+
+
+.left{
+    float:left;
+    width:45%;
+    background:#f4f4f4;
+    padding:15px;
+}
+
+.right{
+    float:right;
+    width:45%;
+    background:#ddd;
+    padding:15px;
+}
+
+
+.member{
+    float:left;
+    width:22%;
+    margin:10px;
+    text-align:center;
+    border:1px solid gray;
+    padding:10px;
+}
+
+form{
+    width:400px;
+}
+
+input, select, textarea{
+    width:100%;
+    padding:8px;
+}
